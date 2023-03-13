@@ -1,1 +1,1 @@
-FROM centos:centos7
+FROM centos:centos7@sha256:74c01dc8e88f6161ad12aaafd1f080881cc45d95af8d3fb8508989db06c9ea9b
